@@ -1,2 +1,2 @@
 # AntiSpawnerTarget
-#### SpigotMC | Disables mob targeting from spawners
+#### [Spigot] Disables mob targeting from spawners
