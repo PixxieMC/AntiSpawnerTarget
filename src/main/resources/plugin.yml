@@ -1,0 +1,7 @@
+name: AntiSpawnerTarget
+version: ${project.version}
+main: net.pixxy.antispawnertarget.AntiSpawnerTarget
+api-version: "1.13"
+authors: [xVye]
+description: Disables mob targeting from spawners
+website: github.com/xVye
